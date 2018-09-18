@@ -1,0 +1,10 @@
+export const SAVE_REQUEST = 'product/SAVE_REQUEST';
+export const SAVE_DONE = 'product/SAVE_DONE';
+export const CATEGORY_ID = 'product/CATEGORY_ID';
+export const GET_IMAGE = 'product/GET_IMAGE';
+export const GET_RICHEDITOR = 'product/GET_RICHEDITOR';
+export const SET_PRODUCT = 'product/SET_PRODUCT';
+export const PRODUCT_DONE = 'product/PRODUCT_DONE';
+export const PRODUCT_REQUEST = 'product/PRODUCT_REQUEST';
+export const SET_CATEGORY_ERROR = 'product/SET_CATEGORY_ERROR';
+export const SET_EDIT_PRODUCT = 'product/SET_EDIT_PRODUCT';

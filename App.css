@@ -1,0 +1,11 @@
+*{
+margin: 0;
+padding: 0;
+}
+.App{
+	width: 210px;
+	margin: 50px auto;
+}
+.App li{
+	list-style: none; 
+}
